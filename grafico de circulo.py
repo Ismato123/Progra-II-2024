@@ -1,5 +1,3 @@
-#Cristian Ernesto Valle Flores - SMSS068623
-#Diego Samuel Reyes Moreno - SMSS057423 
 #importtamos las librerias 
 import pandas as pd
 import matplotlib.pyplot as plt
